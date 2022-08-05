@@ -6,3 +6,4 @@ while  n[-1] <4000000:
 # 		sum+=i
 res = filter(lambda x:x%2==0, n)
 print(sum(res))
+# new 
